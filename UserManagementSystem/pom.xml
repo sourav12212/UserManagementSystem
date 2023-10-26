@@ -14,7 +14,7 @@
 	<name>UserManagementSystem</name>
 	<description>User Management System.using H2 database and SpringBoot</description>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
